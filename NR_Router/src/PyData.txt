@@ -1,0 +1,3 @@
+'C:\Users\Reina\Desktop\NR_Router\src\Maps\Map1.png'
+4,2
+2,4
